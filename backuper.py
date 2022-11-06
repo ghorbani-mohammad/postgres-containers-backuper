@@ -3,8 +3,8 @@ import gzip
 import boto3
 import docker
 import rotate_backups
-from pytz import timezone
 from pathlib import Path
+from pytz import timezone
 from datetime import datetime
 
 client = docker.from_env()
