@@ -1,4 +1,4 @@
-docker==5.0.2
 boto3==1.18.42
+docker==5.0.2
 pytz==2021.1
 rotate-backups==8.1
